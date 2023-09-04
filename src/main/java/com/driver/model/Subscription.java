@@ -37,6 +37,8 @@ public class Subscription {
         this.totalAmountPaid = totalAmountPaid;
     }
 
+
+
     public Subscription() {
 
     }
